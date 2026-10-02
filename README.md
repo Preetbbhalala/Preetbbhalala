@@ -7,7 +7,7 @@
 
 <br>
 
-i love code <img src="images/cat.gif" alt="cat" height="64">
+i love code <img src="cat-computer.gif" alt="cat" height="64">
 
 <p align="right">
   <img src="images/furby.gif" alt="furby" height="60">
