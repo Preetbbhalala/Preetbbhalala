@@ -3,5 +3,7 @@
 <p align="center">
   <img src="d7qsj4b6080f1.gif" alt="Welcome to my GitHub profile" width="500">
 </p>
+
 <br>
+
 i love code <img src="cat-computer.gif" alt="cat" height="64">
