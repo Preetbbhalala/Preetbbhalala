@@ -19,7 +19,6 @@ i love code <img src="images/cat.gif" alt="cat" height="64">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=red&label=HITS+TODAY" alt="hit counter">
 <img src="images/netscape-now.gif" alt="Netscape Now" height="31">
 <img src="images/w3c-css.gif" alt="W3C CSS" height="31">
 <img src="images/w3c-html.gif" alt="W3C HTML" height="31">
