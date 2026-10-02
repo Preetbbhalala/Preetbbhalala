@@ -10,4 +10,4 @@ i love code <img src="cat-computer.gif" alt="cat" height="64"> and playing chess
 
 <br>
 
-<img src="images/fire.gif" alt="fire" width="600">
+<img src="flames.gif" alt="fire" width="600">
