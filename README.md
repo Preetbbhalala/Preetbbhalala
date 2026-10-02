@@ -17,10 +17,6 @@ i love code <img src="images/cat.gif" alt="cat" height="64">
   <img src="images/under-construction.gif" alt="Under construction" width="550">
 </p>
 
-check out my latest app: [My App](https://github.com/YOUR_USERNAME/YOUR_APP) <img src="images/new.gif" alt="new" height="16">
-
-and my [latest blog post](https://your-blog-link.com) <img src="images/new.gif" alt="new" height="16">
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=red&label=HITS+TODAY" alt="hit counter">
