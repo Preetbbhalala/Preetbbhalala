@@ -6,7 +6,7 @@
 
 <br>
 
-<p1>i love code <img src="cat-computer.gif" alt="cat" height="64"> and playing chess <img src="cat-chess.webp" alt="unicorn" height="80"></p>
+<h1>i love code <img src="cat-computer.gif" alt="cat" height="64"> and playing chess <img src="cat-chess.webp" alt="unicorn" height="80"></h1>
 
 <br>
 
