@@ -6,7 +6,7 @@
 
 <br>
 
-i love code <img src="cat-computer.gif" alt="cat" height="64" width="100> and playing  <img src="cat-chess.webp" alt="unicorn" height="100" width="100">
+i love code <img src="cat-computer.gif" alt="cat" height="64" width="100> and playing  <img src="cat-chess.webp" alt="unicorn" height="200" width="100">
 
 <br>
 
