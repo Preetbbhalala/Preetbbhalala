@@ -7,7 +7,3 @@
 <br>
 
 i love code <img src="cat-computer.gif" alt="cat" height="100"> and playing  <img src="cat-chess.webp" alt="unicorn" height="200" width="100">
-
-<br>
-
-<img src="flames.gif" alt="fire" width="600">
