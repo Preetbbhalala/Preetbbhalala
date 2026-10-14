@@ -2,13 +2,17 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    - cron: "7,37 * * * *"    # every 30 minutes, so new contributions show up quickly
+  workflow_dispatch:           # lets you run it by hand from the Actions tab
   push:
-    branches: [main]          # also runs as soon as this file is added
+    branches: [main]           # also runs whenever you update this repo
 
 permissions:
   contents: write
+
+concurrency:                   # if a newer run starts, cancel the older one
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
