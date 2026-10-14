@@ -1,13 +1,6 @@
-<!-- Retro 90s GitHub profile README -->
-<!-- Put your GIFs in an "images" folder in this repo, or swap the paths for full image links -->
-<p align="center">
-  <a href="bottom_up.svg" alt="Welcome to my GitHub profile"></a>
-</p>
 
 <br>
 
-i love code <img src="cat-computer.gif" alt="cat" height="100"> and playing  <img src="cat-chess.webp" alt="unicorn" height="200" width="100">
-<br> 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://wyatt-drew.github.io/index.html)
 
 <h3 align="left">💻 Languages</h3>
@@ -57,3 +50,10 @@ i love code <img src="cat-computer.gif" alt="cat" height="100"> and playing  <im
   <a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sharepoint.svg" alt="SharePoint" title="SharePoint" width="40" height="40"></a>&nbsp;
   <a href="https://about.gitlab.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="40" height="40"></a>
 </p>
+
+<!-- GitHub activity graph (contribution snake, built from YOUR contributions by .github/workflows/snake.yml) -->
+<h3 align="left">📈 GitHub Activity Graph</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Preetbbhalala's GitHub activity graph" src="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
