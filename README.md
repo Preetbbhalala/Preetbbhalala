@@ -1,7 +1,7 @@
 <!-- Retro 90s GitHub profile README -->
 <!-- Put your GIFs in an "images" folder in this repo, or swap the paths for full image links -->
 <p align="center">
-  <a href="bottom_up.svg" alt="Welcome to my GitHub profile" width="500"></a>
+  <a href="bottom_up.svg" alt="Welcome to my GitHub profile"></a>
 </p>
 
 <br>
