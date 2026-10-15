@@ -23,3 +23,35 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/output/github-contribution-grid-snake-dark.svg">
   <img alt="Preetbbhalala's GitHub activity graph" src="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Certificates: click a certificate to open the full-size image -->
+### 🏅 Certifications & Achievements:
+
+<sub>Click a certificate to open it in full size.</sub>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/main/certificates/udemy-ai-builder-n8n.png"><img src="certificates/udemy-ai-builder-n8n-thumb.jpg" alt="Udemy certificate of completion: AI Builder: Create Agents, Voice Agents &amp; Automations in n8n, Preet Bhalala, March 7, 2026" width="100%"></a>
+      <br><b>AI Builder: Create Agents, Voice Agents &amp; Automations in n8n</b>
+      <br><sub>Udemy · Mar 7, 2026 · 14.5 hours · <a href="https://ude.my/UC-feebd274-9469-4c40-bd81-b91ea7a60c04">Verify</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/main/certificates/hackerrank-sql-intermediate.png"><img src="certificates/hackerrank-sql-intermediate-thumb.jpg" alt="HackerRank certificate of accomplishment: SQL (Intermediate), Preet Bhalala, 13 Oct 2025" width="100%"></a>
+      <br><b>SQL (Intermediate)</b>
+      <br><sub>HackerRank skill certification · Oct 13, 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/main/certificates/udemy-flutter-bootcamp.png"><img src="certificates/udemy-flutter-bootcamp-thumb.jpg" alt="Udemy certificate of completion: The Complete Flutter Development Bootcamp with Dart, Preet Bhalala, January 6, 2025" width="100%"></a>
+      <br><b>The Complete Flutter Development Bootcamp with Dart</b>
+      <br><sub>Udemy · Jan 6, 2025 · 29 hours · <a href="https://ude.my/UC-773880c1-c158-46e7-aebc-4f9847c74dea">Verify</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/main/certificates/techradiance-iit-hyderabad.png"><img src="certificates/techradiance-iit-hyderabad-thumb.jpg" alt="Techradiance certificate of achievement presented to Preet Mayurbhai Bhalala for outstanding performance at the Techradiance Grand Finale, IIT Hyderabad, 15-16 April 2023" width="100%"></a>
+      <br><b>Certificate of Achievement: Techradiance Grand Finale</b>
+      <br><sub>IIT Hyderabad · Apr 15–16, 2023</sub>
+    </td>
+  </tr>
+</table>
