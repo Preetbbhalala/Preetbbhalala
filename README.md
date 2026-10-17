@@ -55,10 +55,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Chess: click the card to open my Chess.com profile -->
-### ♟️ Let's Play Chess:
-
-<a href="https://www.chess.com/member/preetbhalala"><img src="chess-card.svg" alt="Let's play chess! Click to open my Chess.com profile (PreetBhalala) and challenge me to a game." width="100%"></a>
-
-<sub>Click the card to open my <a href="https://www.chess.com/member/preetbhalala">Chess.com profile</a> and challenge me to a game ♟️</sub>
