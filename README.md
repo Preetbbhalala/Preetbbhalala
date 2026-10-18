@@ -31,6 +31,13 @@
 
 <table>
   <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/main/certificates/apna-college-prime-aiml.png"><img src="certificates/apna-college-prime-aiml-thumb.jpg" alt="Apna College certificate of completion: Prime (AI/ML), Preet Bhalala, certificate ID 6ad45b9aee09e9bab20929f9" width="50%"></a>
+      <br><b>Prime (AI/ML)</b>
+      <br><sub>Apna College · Certificate ID <code>6ad45b9aee09e9bab20929f9</code> · <a href="https://www.apnacollege.in/course/prime-ai">Course page</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://raw.githubusercontent.com/Preetbbhalala/Preetbbhalala/main/certificates/udemy-ai-builder-n8n.png"><img src="certificates/udemy-ai-builder-n8n-thumb.jpg" alt="Udemy certificate of completion: AI Builder: Create Agents, Voice Agents &amp; Automations in n8n, Preet Bhalala, March 7, 2026" width="100%"></a>
       <br><b>AI Builder: Create Agents, Voice Agents &amp; Automations in n8n</b>
